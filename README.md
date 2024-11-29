@@ -10,6 +10,12 @@
 + Предоставляет интерфейс для поиска товара по фрагменту названия.
 + Выводит информацию, согасно запросу и отсортированную по возрастанию стоимости за килограмм.
 + Завершает работу при вводе "exit"
+____
 
-
+![](https://github.com/Morff3/Analize_price/blob/main/Scrinshot/1.jpg)
+![](https://github.com/Morff3/Analize_price/blob/main/Scrinshot/2.jpg)
+_____
+![](https://github.com/Morff3/Analize_price/blob/main/Scrinshot/3.jpg)
+_____
+![](https://github.com/Morff3/Analize_price/blob/main/Scrinshot/4.jpg)
 
